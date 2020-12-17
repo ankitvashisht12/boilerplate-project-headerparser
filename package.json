@@ -22,5 +22,8 @@
 		"hyperdev",
 		"express"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"nodemod": "^2.6.1"
+	}
 }
